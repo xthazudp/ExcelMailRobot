@@ -1,0 +1,3 @@
+Employee ID,FirstName,LastName,Salary
+101,John,Smith,8000
+102,Nick,Berry,14000
